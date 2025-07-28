@@ -31,7 +31,13 @@ movie_rental_project/ ├── schema/ │ └── database_schema.sql ├─
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/movie_rental_project.git
+   git clone https://github.com/khairul7075/movie_rental_project.git
+
+   📌 License
+This project is open-source under the Apache 2.0 License.
+
+🙋‍♂️ Author
+Created by [Khairul Haque]. Feel free to reach out or fork the repo for your own experiments!
 
 
 ---
